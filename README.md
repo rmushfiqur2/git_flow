@@ -2,5 +2,5 @@
 
 This project is under development
 
-# add operation
+# add a = operation
 #minus
